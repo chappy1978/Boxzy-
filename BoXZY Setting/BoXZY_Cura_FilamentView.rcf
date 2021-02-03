@@ -1,0 +1,10 @@
+[filament]
+name = BoXZY_Cura_FilamentView
+diameter = 1.75
+multiplierPercent = 100
+printingTemperature = 195
+enableCooling = True
+bedTemperature = 50
+fanSpeedMin = 10
+fanSpeedMax = 40
+minimalLayerTime = 5
